@@ -1,0 +1,9 @@
+POST http://localhost:3001/productos 
+Content-Type: application/json
+
+{
+    "nombre":"zapato",
+    "estado" : "desactivad",
+    "precio_unitario" : 15,
+    "fecha" : "11/11/2021"}
+
